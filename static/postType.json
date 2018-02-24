@@ -1,0 +1,34 @@
+[
+    {
+        "LableId":"1",
+        "type": "推荐"
+    },
+    {
+        "LableId": "30",
+        "type": "新品"
+    },
+    {
+        "LableId": "31",
+        "type": "限时购"
+    },
+    {
+        "LableId": "35",
+        "type": "居家"
+    },
+    {
+        "LableId": "38",
+        "type": "餐厨"
+    },
+    {
+        "LableId": "39",
+        "type": "洗护"
+    },
+    {
+        "LableId": "45",
+        "type": "奶制品"
+    },
+    {
+        "LableId": "58",
+        "type": "闪购"
+    }
+]
